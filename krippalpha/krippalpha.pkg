@@ -1,5 +1,5 @@
-d 'DEA': Data envelopment analysis
+d 'krippalpha': Compute Krippendorff‘s intercoder reliability coefficient Alpha Use krippalpha With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ka.ado
+f krippalpha.ado
+f krippalpha.sthlp
