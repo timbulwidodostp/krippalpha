@@ -1,6 +1,8 @@
 # krippalpha
 Compute Krippendorff‘s intercoder reliability coefficient Alpha Use krippalpha With STATA 18
 
+https://www.youtube.com/watch?v=uBKghRzjBtM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
